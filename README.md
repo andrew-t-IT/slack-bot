@@ -2,4 +2,4 @@
 - This public repo is for deveopopment for the JASK Slack Bot. 
 
 # Contributing
-- Please see: contributing.md
+- Please see: https://github.com/jasklabs/slack-bot/blob/master/contributing.md
