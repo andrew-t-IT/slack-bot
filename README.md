@@ -1,2 +1,5 @@
-# slack-bot
-Public repo for slack bot development. 
+# JASK Slack Bot
+- This public repo is for deveopopment for the JASK Slack Bot. 
+
+# Contributing
+- Please see: contributing.md
