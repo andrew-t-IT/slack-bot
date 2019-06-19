@@ -1,0 +1,10 @@
+[Core]
+name = JaskApi
+module = jaskapi
+
+[Documentation]
+description = Connection to JaskApi
+
+[Python]
+version = 3
+
